@@ -279,7 +279,7 @@ de produção e uso do solo e água.
 """)
 
 st.write("**Pesquisadora:** Mônica Rocha de Oliveira")
-st.write("**Orientador:** Prof. Dr. Edson Luiz Souchie")
+st.write("**Orientador:** Prof. Dr. Frederico Soares")
 
 
 # =====================================================
